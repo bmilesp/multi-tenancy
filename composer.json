@@ -1,0 +1,15 @@
+{
+    "name": "bmilesp/multi-tenancy",
+    "description": "Multi-Tenancy subdomain Plugin for CakePHP",
+    "authors": [
+        {
+            "name": "bmilesp",
+            "email": "bmilesp@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "type": "cakephp-plugin",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
